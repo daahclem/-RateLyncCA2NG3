@@ -1,0 +1,9 @@
+[
+  
+  { "provider": "Xoom", "origin": "CA", "destination": "NG", "payout_method": "bank_transfer", "url": "https://www.xoom.com/nigeria/send-money", "send_amount": 1 },
+  { "provider": "RemitBee", "origin": "CA", "destination": "NG", "payout_method": "bank_transfer", "url": "https://www.remitbee.com/send-money/nigeria", "send_amount": 1 },
+  { "provider": "ACE Money Transfer", "origin": "CA", "destination": "NG", "payout_method": "bank_transfer", "url": "https://acemoneytransfer.com/", "send_amount": 1 },
+  { "provider": "Profee", "origin": "CA", "destination": "NG", "payout_method": "bank_transfer", "url": "https://www.profee.com/", "send_amount": 1 },
+  { "provider": "AfriChange", "origin": "CA", "destination": "NG", "payout_method": "bank_transfer", "url": "https://africhange.com/", "send_amount": 1 },
+  { "provider": "BanffPay", "origin": "CA", "destination": "NG", "payout_method": "bank_transfer", "url": "https://www.banffpay.com/", "send_amount": 1 }
+]
